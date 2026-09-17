@@ -1,0 +1,31 @@
+hello_world.txt: 77 6F 72 6C 64 
+hello_world.doc: 00001840 
+hello_world(1bit).bmp: 0x3E 
+hello_world(24bit).bmp: 0x36
+
+---------------
+6.3
+after changing the hello_world.txt format to exe, windows popped a message that it can not run it. After changing the extension and reading it in the hex viewer bytes remained the same.   
+
+After changing the properties to read only, I could add any content I want, but saving it on the same file was not possible windows offered a save as a new file. 
+
+--------------------
+7.
+ 1. I have 1 Disk (Disk 0 (C/D)) on my laptop.
+ 2. 
+disk model: Samsung MZVLB1T0HALR-00000
+Disk capacity GB: 954
+Read speed MB: up to 3,200 MB/s
+Write speed MB: up to 2,400 MB/s
+
+3.
+Disk partitions	D	1	4	6	C
+partitions Capacity 	585.94 GB	260 MB	775 MB	650 MB	366.27 GB
+partitions function	Basic Data	EFI system	Recovery 	Recovery 	OS, Boot
+
+
+
+
+
+
+

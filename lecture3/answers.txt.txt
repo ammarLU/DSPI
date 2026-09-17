@@ -1,0 +1,33 @@
+4 COMPONENT IDENTIFICATION
+1. 
+CPU model: Intel(R) Core(TM) i7-10510U CPU 1.80GHz
+number of cores: 4
+max core speed:2304 
+
+2. 
+type of RAM: LPDDR3
+model: Samsung K4EBE304ED-EGCG x2
+speed:2133 x2
+RAMs:(2x8GB) 16GB
+
+3.
+kind of GPU 0: Intel(R) UHD Graphics/ 
+It has 8GB VRAM, 0.3GB in use 
+kind of GPU 1: NVIDIA GeForce MX250
+It has 2GB dedicated RAM
+
+4.
+firmware/bios version: UX481FL.308
+last updated: 7 February 2020
+
+5.
+Yes, my laptop can boot from a usb disk
+
+
+6. 
+
+The current screen resolution is 1920 × 1080.
+
+After changing the screen orientation to portrait mode, I could see that the screen rotated 90 degrees, and all the functions linked to the sreen rotated with it. I think portrait mode is suitable when designing something that will be displayed in portrait mode.
+
+After changing the resolution to 800 × 600, the display screen became smaller, but the image quality did not change.

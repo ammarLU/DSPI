@@ -1,0 +1,17 @@
+5
+a- 181 drivers are running on my system.
+b-
+they are located in: 
+c:\\WINDOWS\system32\DRIVERS\netwfw10.dat
+c:\\WINDOWS\system32\DRIVERS\netwfw10.sys
+c:\\WINDOWS\system32\drivers\vwifibus.sys
+c:\\WINDOWS\system32\intellHVRouter08.dll
+the name of the driver is: Intel(R) WiFi 6 AX201 160MHz
+
+6.1
+I use Brave browser
+CPU: 0.3
+RAM:1,057.4 MB
+
+6.2
+C:\Program Files\BraveSoftware\Brave-Browser\Application
